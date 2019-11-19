@@ -22,5 +22,7 @@ zbl_sqr <- function(x) {
 #' @examples
 #'
 zbl_sq <- function(x) {
-  x*x
+  print(x*x)
+  print("play")
 }
+
