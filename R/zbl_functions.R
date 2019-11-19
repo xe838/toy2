@@ -11,3 +11,16 @@
 zbl_sqr <- function(x) {
   sqrt(x)
 }
+
+#' Title
+#' To return a squared value
+#' @param x
+#'
+#' @return
+#' @export
+#'
+#' @examples
+#'
+zbl_sq <- function(x) {
+  x*x
+}
